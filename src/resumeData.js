@@ -1,7 +1,7 @@
 let resumeData = {
     "imagebaseurl":"ramez.hamdi4work@gmail.com" ,//ToDo: if there is something wrong with any image check this url
     "name": "Ramez Hamdi Sa'eed",
-    "role": "UI/UX designer, Digital Marketeer & Full Stack (Web,Mobile,& Desktop) apps Developer",
+    "role": "UI/UX designer, Digital Marketter & Full Stack (Web,Mobile,& Desktop) apps Developer",
     "linkedinId":"ramez hamdi",
     "skypeid": "ramez4u",
     "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
@@ -105,11 +105,11 @@ let resumeData = {
       
     ],
     "portfolio":[
-      {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":""
-      },
+      // {
+      //   "name":"project1",
+      //   "description":"mobileapp",
+      //   "imgurl":""
+      // },
        
     ],
     "testimonials":[
