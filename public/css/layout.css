@@ -324,7 +324,11 @@ ul#nav li.current a { color: #F06000; }
    line-height: 42px;
    border-radius: 3px 0 0 3px;
 }
-
+.digitalmarketing {
+   width: 95%;
+   -moz-animation: digitalmarketing 2s ease;
+   -webkit-animation: digitalmarketing 2s ease;
+}
 .photoshop {
   	width: 60%;
   	-moz-animation: photoshop 2s ease;
@@ -340,7 +344,7 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
-.css {
+.css3 {
   	width: 90%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
@@ -350,12 +354,59 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
+ 
+.figma {
+  	width: 70%;
+  	-moz-animation: figma 2s ease;
+  	-webkit-animation: figma 2s ease;
+}
+.javascript {
+  	width: 95%;
+  	-moz-animation: javascript 2s ease;
+  	-webkit-animation: javascript 2s ease;
+}
+
+.bootstrap {
+  	width: 90%;
+  	-moz-animation: bootstrap 2s ease;
+  	-webkit-animation: bootstrap 2s ease;
+}
+.sass {
+  	width: 80%;
+  	-moz-animation: sass 2s ease;
+  	-webkit-animation: sass 2s ease;
+}
 .jquery {
-  	width: 50%;
+  	width: 70%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
-
+.reactjs {
+   width: 95%;
+   -moz-animation: reactjs 2s ease;
+   -webkit-animation: reactjs 2s ease;
+}
+.reactnativejs {
+   width: 85%;
+   -moz-animation: reactnativejs 2s ease;
+   -webkit-animation: reactnativejs 2s ease;
+}.electronjs {
+   width: 70%;
+   -moz-animation: electronjs 2s ease;
+   -webkit-animation: electronjs 2s ease;
+}.nodejs {
+   width: 95%;
+   -moz-animation: nodejs 2s ease;
+   -webkit-animation: nodejs 2s ease;
+}.expressjs {
+   width: 90%;
+   -moz-animation: expressjs 2s ease;
+   -webkit-animation: expressjs 2s ease;
+}.mongodb {
+   width: 80%;
+   -moz-animation: mongodb 2s ease;
+   -webkit-animation: mongodb 2s ease;
+}
 @-moz-keyframes photoshop {
   0%   { width: 0px;  }
   100% { width: 60%;  }
@@ -378,7 +429,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes jquery {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 70%;  }
 }
 
 @-webkit-keyframes photoshop {
@@ -403,7 +454,51 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes jquery {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 70%;  }
+}
+@-webkit-keyframes digitalmarketing {
+  0%   { width: 0px;  }
+  100% { width: 95%;  }
+}
+@-webkit-keyframes figma{
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
+@-webkit-keyframes javascript{
+  0%   { width: 0px;  }
+  100% { width: 95%;  }
+}
+@-webkit-keyframes bootstrap {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-webkit-keyframes sass {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-webkit-keyframes reactjs{
+  0%   { width: 0px;  }
+  100% { width: 95%;  }
+}
+@-webkit-keyframes reactnativejs{
+  0%   { width: 0px;  }
+  100% { width: 85%;  }
+}
+@-webkit-keyframes electronjs{
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
+@-webkit-keyframes nodejs {
+  0%   { width: 0px;  }
+  100% { width: 95%;  }
+}
+@-webkit-keyframes  expressjs {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-webkit-keyframes mongodb {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
 }
 
 /* ------------------------------------------------------------------ */

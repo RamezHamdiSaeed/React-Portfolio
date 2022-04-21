@@ -1,104 +1,125 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
+    "imagebaseurl":"ramez.hamdi4work@gmail.com" ,//ToDo: if there is something wrong with any image check this url
+    "name": "Ramez Hamdi Sa'eed",
+    "role": "UI/UX designer, Digital Marketeer & Full Stack (Web,Mobile,& Desktop) apps Developer",
+    "linkedinId":"ramez hamdi",
+    "skypeid": "ramez4u",
     "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/ramez-hamdi-788026215/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/ramez1212?tab=repositories",
           "className":"fa fa-github"
         },
         {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "name":"twitter",
+          "url":"https://twitter.com/ramez_hamdi",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am currently graduated at al shorouk academy HICIT & my major is computer science . I am a self taught Full Stack Web, mobile & desktop apps Developer, currently diving deeper into DevOps Engineering . I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "address":"Egypt",
+    "website":"ramez.hamdi4work@gmail.com",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
+        "UniversityName":"ash shorouk academy",
+        "specialization":"CS (Computer Science)",
         "MonthOfPassing":"Aug",
         "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
-      },
-      {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "Achievements":"well educated ui/ux designer, reactjs developer, reactnativejs developer, and electronjs developer"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Military base of zagazig",
+        "specialization":"IT support",
+        "MonthOfLeaving":"march",
+        "YearOfLeaving":"2022",
+        "Achievements":"fix and maintain all the computers in the base"
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Freelancer",
+        "specialization":"graphic designer & UI/UX designer",
+        "MonthOfLeaving":"Dec",
+        "YearOfLeaving":"2019",
+        "Achievements":"achieved some of gigs"
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"",
     "skills":[
+
+      {
+        "skillname":"DigitalMarketing"
+      },
+      
+      {
+        "skillname":"figma"
+      },
       {
         "skillname":"HTML5"
       },
       {
-        "skillname":"CSS"
+        "skillname":"CSS3"
+      },
+      
+      {
+        "skillname":"JavaScript"
+      },
+      
+      {
+        "skillname":"bootstrap"
+      },
+      
+      {
+        "skillname":"SASS"
+      },
+      
+      {
+        "skillname":"Jquery"
+      },
+      
+      {
+        "skillname":"ReactJS"
       },
       {
-        "skillname":"Reactjs"
-      }
+        "skillname":"ReactnativeJS"
+      },
+      {
+        "skillname":"ElectronJS"
+      },
+      
+      {
+        "skillname":"NodeJS"
+      },
+      {
+        "skillname":"ExpressJS"
+      },
+      {
+        "skillname":"MongoDB"
+      },
+      
     ],
     "portfolio":[
       {
         "name":"project1",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":""
       },
-      {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
-      },
-      {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
-      },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      }
+       
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Don't comment bad code - rewrite it",
+        "name":"Brian Kernighan"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"One of my most productive days was throwing away 1000 lines of code",
+        "name":"Ken Thompson"
       }
     ]
   }
